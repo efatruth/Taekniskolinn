@@ -1,0 +1,39 @@
+body{
+	width: 800px;
+	margin: auto;
+	background-color:#b3b3cc;
+}
+section{
+	
+	background:white;
+	padding: 100px;
+	border-radius: 1%;
+	
+}
+
+section nav a{
+	 display: inline-block; 
+	 padding: 2px;
+	 text-decoration:none;
+	 border-left: 1px solid brown;
+	 border-radius: 10%;
+ }
+ 
+ section nav a:hover
+{
+	color:red;
+	background-color:black;
+}
+
+.group:before,
+.group:after {
+  content: "";
+  display: table;
+}
+.group:after {
+  clear: both;
+}
+.group {
+  clear: both;
+  *zoom: 1;
+}

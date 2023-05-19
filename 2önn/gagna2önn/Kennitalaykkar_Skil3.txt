@@ -1,0 +1,39 @@
+CREATE DATABASE 0301865919_Kennitalaykkar_Skil3;
+use 0301865919_Kennitalaykkar_Skil3;
+drop table 0301865919_skuld_lanabok; 
+CREATE TABLE skuld_lanabok
+(
+nafn VARCHAR(40),
+kennitala CHAR(11),
+netfang VARCHAR(50) ,
+heimilisfang VARCHAR(40) NULL,
+Póstnúmer INT,
+lán DECIMAL(7,2) NULL,
+skuld INT NULL
+);
+
+
+INSERT INTO skuld_lanabok
+	(nafn, kennitala, netfang, heimilisfang, póstnúmer, lán, skuld)
+VALUES
+	("l.f. felix","0301865919","robertsonekat@yahoo.com","flúðaseli 76",109, "80000.00","0"),
+    ("viljamur ferguson","0708907912","viljamurferguson@yahoo.com","vatnsgata 20",108, "95000.00","0"),
+    ("olafur  guðmunson","0202949591","olafurguðmunson@yahoo.com","skulagotu 36 ",101, "90000.00","0"),
+    ("reuben lopez","0806955718","reubenlopez@yahoo.com","leisgata 37",101,"77000.00","0"),
+    ("petur alexon","0909932219","peturalexon@yahoo.com","hanannes 13",102, "91000.00","0"),
+    ("omar smari","0303986913","omarsmari@yahoo.com","flúðaseli 22",109,"51000.00","0"),
+    ("svavar einarson","07059432829","svavareinarson@yahoo.com","jáðaseli 61",109,"60000.00","0"),
+    ("jón elifson","05069563329","jónelifson@yahoo.com","jáðaseli 70",109,"90000.00","0"),
+    ("ilmil gunnarson","0301865919","ilmilgunnarson@yahoo.com","flúðaseli 48",109,"93100.00","0"),
+    ("gustaf andriasson","0406875729","gustafandriasson@yahoo.com","katrinatún 24",101,"99000.00","0"),
+    ("safi thorasson","1104943115","safithorasson@yahoo.com","bortúnagata 82 ",101,"89800.00","0"),
+    ("david thomason","2102895528","david thomasont@yahoo.com","skulagotu 59",101,"80000.00","0");
+    
+
+CREATE TABLE poststod
+(
+Póstnúmer INT ,
+Sveitarfélag VARCHAR(40) NOT NULL
+);
+
+select * from skuld_lanabok;

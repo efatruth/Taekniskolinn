@@ -1,0 +1,12 @@
+H:\FOR1A3U_Skilaverkefni_5\FOR1A3U_Skilaverkefni_5\bin\Debug\FOR1A3U_Skilaverkefni_5.exe.config
+H:\FOR1A3U_Skilaverkefni_5\FOR1A3U_Skilaverkefni_5\bin\Debug\FOR1A3U_Skilaverkefni_5.exe
+H:\FOR1A3U_Skilaverkefni_5\FOR1A3U_Skilaverkefni_5\bin\Debug\FOR1A3U_Skilaverkefni_5.pdb
+H:\FOR1A3U_Skilaverkefni_5\FOR1A3U_Skilaverkefni_5\obj\Debug\FOR1A3U_Skilaverkefni_5.csprojResolveAssemblyReference.cache
+H:\FOR1A3U_Skilaverkefni_5\FOR1A3U_Skilaverkefni_5\obj\Debug\FOR1A3U_Skilaverkefni_5.exe
+H:\FOR1A3U_Skilaverkefni_5\FOR1A3U_Skilaverkefni_5\obj\Debug\FOR1A3U_Skilaverkefni_5.pdb
+H:\3önn\forritun\í síðasta önn\FOR1A3U_Skilaverkefni_5\FOR1A3U_Skilaverkefni_5\bin\Debug\FOR1A3U_Skilaverkefni_5.exe.config
+H:\3önn\forritun\í síðasta önn\FOR1A3U_Skilaverkefni_5\FOR1A3U_Skilaverkefni_5\obj\Debug\FOR1A3U_Skilaverkefni_5.exe
+H:\3önn\forritun\í síðasta önn\FOR1A3U_Skilaverkefni_5\FOR1A3U_Skilaverkefni_5\obj\Debug\FOR1A3U_Skilaverkefni_5.pdb
+H:\3önn\forritun\í síðasta önn\FOR1A3U_Skilaverkefni_5\FOR1A3U_Skilaverkefni_5\bin\Debug\FOR1A3U_Skilaverkefni_5.exe
+H:\3önn\forritun\í síðasta önn\FOR1A3U_Skilaverkefni_5\FOR1A3U_Skilaverkefni_5\bin\Debug\FOR1A3U_Skilaverkefni_5.pdb
+H:\3önn\forritun\í síðasta önn\FOR1A3U_Skilaverkefni_5\FOR1A3U_Skilaverkefni_5\obj\Debug\FOR1A3U_Skilaverkefni_5.csprojResolveAssemblyReference.cache

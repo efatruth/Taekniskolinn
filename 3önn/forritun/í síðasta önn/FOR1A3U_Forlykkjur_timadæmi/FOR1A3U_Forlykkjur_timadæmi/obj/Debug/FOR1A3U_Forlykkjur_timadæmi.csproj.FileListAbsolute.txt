@@ -1,0 +1,8 @@
+\\skra\nem-redirect$\0301865919\documents\visual studio 2013\Projects\FOR1A3U_Forlykkjur_timadæmi\FOR1A3U_Forlykkjur_timadæmi\bin\Debug\FOR1A3U_Forlykkjur_timadæmi.exe.config
+\\skra\nem-redirect$\0301865919\documents\visual studio 2013\Projects\FOR1A3U_Forlykkjur_timadæmi\FOR1A3U_Forlykkjur_timadæmi\obj\Debug\FOR1A3U_Forlykkjur_timadæmi.csprojResolveAssemblyReference.cache
+H:\FOR1A3U_Forlykkjur_timadæmi\FOR1A3U_Forlykkjur_timadæmi\bin\Debug\FOR1A3U_Forlykkjur_timadæmi.exe.config
+H:\FOR1A3U_Forlykkjur_timadæmi\FOR1A3U_Forlykkjur_timadæmi\bin\Debug\FOR1A3U_Forlykkjur_timadæmi.exe
+H:\FOR1A3U_Forlykkjur_timadæmi\FOR1A3U_Forlykkjur_timadæmi\bin\Debug\FOR1A3U_Forlykkjur_timadæmi.pdb
+H:\FOR1A3U_Forlykkjur_timadæmi\FOR1A3U_Forlykkjur_timadæmi\obj\Debug\FOR1A3U_Forlykkjur_timadæmi.csprojResolveAssemblyReference.cache
+H:\FOR1A3U_Forlykkjur_timadæmi\FOR1A3U_Forlykkjur_timadæmi\obj\Debug\FOR1A3U_Forlykkjur_timadæmi.exe
+H:\FOR1A3U_Forlykkjur_timadæmi\FOR1A3U_Forlykkjur_timadæmi\obj\Debug\FOR1A3U_Forlykkjur_timadæmi.pdb

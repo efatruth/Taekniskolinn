@@ -1,0 +1,26 @@
+p.groove {
+	border-style: groove;
+	border-color: lightgreen;
+}
+p.dashed {
+	border-style: dashed;
+	border-color: blue;
+	border-width; 3px;
+}
+
+
+div.ex3 {
+	padding: 25px;
+}
+
+.box1
+{
+	border: 2px red solid;
+	padding: 20px;
+}
+
+.box2
+{
+	border: 4px red solid;
+	padding: 40px;
+}

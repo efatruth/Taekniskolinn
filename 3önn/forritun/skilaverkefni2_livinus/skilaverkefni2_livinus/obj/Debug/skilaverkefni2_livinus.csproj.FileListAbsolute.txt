@@ -1,0 +1,12 @@
+H:\skilaverkefni2_livinus\skilaverkefni2_livinus\bin\Debug\skilaverkefni2_livinus.exe.config
+H:\skilaverkefni2_livinus\skilaverkefni2_livinus\bin\Debug\skilaverkefni2_livinus.exe
+H:\skilaverkefni2_livinus\skilaverkefni2_livinus\bin\Debug\skilaverkefni2_livinus.pdb
+H:\skilaverkefni2_livinus\skilaverkefni2_livinus\obj\Debug\skilaverkefni2_livinus.csprojResolveAssemblyReference.cache
+H:\skilaverkefni2_livinus\skilaverkefni2_livinus\obj\Debug\skilaverkefni2_livinus.exe
+H:\skilaverkefni2_livinus\skilaverkefni2_livinus\obj\Debug\skilaverkefni2_livinus.pdb
+H:\3önn\forritun\skilaverkefni2_livinus\skilaverkefni2_livinus\bin\Debug\skilaverkefni2_livinus.exe.config
+H:\3önn\forritun\skilaverkefni2_livinus\skilaverkefni2_livinus\obj\Debug\skilaverkefni2_livinus.exe
+H:\3önn\forritun\skilaverkefni2_livinus\skilaverkefni2_livinus\obj\Debug\skilaverkefni2_livinus.pdb
+H:\3önn\forritun\skilaverkefni2_livinus\skilaverkefni2_livinus\bin\Debug\skilaverkefni2_livinus.exe
+H:\3önn\forritun\skilaverkefni2_livinus\skilaverkefni2_livinus\bin\Debug\skilaverkefni2_livinus.pdb
+H:\3önn\forritun\skilaverkefni2_livinus\skilaverkefni2_livinus\obj\Debug\skilaverkefni2_livinus.csprojResolveAssemblyReference.cache

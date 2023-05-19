@@ -1,0 +1,41 @@
+element.style {
+}
+
+8f2abde.css?v69:1
+body {
+    margin: auto;
+    font-family: "Roboto",serif;
+    font-size: 14px;
+    font-weight: 300;
+    color: #202121;
+    background: #f4f7f6;
+    overflow-x: hidden;
+}
+8f2abde.css?v69:1
+html, body {
+    height: 100%;
+}
+8f2abde.css?v69:1
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+8f2abde.css?v69:1
+* {
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
+Pseudo ::before element
+8f2abde.css?v69:1
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+Pseudo ::after element
+8f2abde.css?v69:1
+*, *:before, *:after {
+    box-sizing: inherit;
+}

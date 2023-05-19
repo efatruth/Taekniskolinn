@@ -1,0 +1,4 @@
+\\skra\nem-redirect$\0301865919\documents\visual studio 2013\Projects\FOR1A3U_SKIL5_H2\FOR1A3U_SKIL5_H2\bin\Debug\FOR1A3U_SKIL5_H2.exe.config
+\\skra\nem-redirect$\0301865919\Documents\Visual Studio 2013\Projects\FOR1A3U_SKIL3_Felix\FOR1A3U_SKIL5_H2\bin\Debug\FOR1A3U_SKIL5_H2.exe.config
+H:\FOR1A3U_SKIL3_Felix\FOR1A3U_SKIL5_H2\bin\Debug\FOR1A3U_SKIL5_H2.exe.config
+H:\3önn\forritun\í síðasta önn\FOR1A3U_SKIL3_Felix\FOR1A3U_SKIL5_H2\bin\Debug\FOR1A3U_SKIL5_H2.exe.config

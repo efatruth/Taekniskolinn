@@ -1,0 +1,6 @@
+H:\visualstudio2013\console2014\FOR1A3U_synidæmi1\FOR1A3U_synidæmi1\bin\Debug\FOR1A3U_synidæmi1.exe.config
+H:\visualstudio2013\console2014\FOR1A3U_synidæmi1\FOR1A3U_synidæmi1\obj\Debug\FOR1A3U_synidæmi1.csprojResolveAssemblyReference.cache
+H:\visualstudio2013\console2014\FOR1A3U_synidæmi1\FOR1A3U_synidæmi1\bin\Debug\FOR1A3U_synidæmi1.exe
+H:\visualstudio2013\console2014\FOR1A3U_synidæmi1\FOR1A3U_synidæmi1\bin\Debug\FOR1A3U_synidæmi1.pdb
+H:\visualstudio2013\console2014\FOR1A3U_synidæmi1\FOR1A3U_synidæmi1\obj\Debug\FOR1A3U_synidæmi1.exe
+H:\visualstudio2013\console2014\FOR1A3U_synidæmi1\FOR1A3U_synidæmi1\obj\Debug\FOR1A3U_synidæmi1.pdb

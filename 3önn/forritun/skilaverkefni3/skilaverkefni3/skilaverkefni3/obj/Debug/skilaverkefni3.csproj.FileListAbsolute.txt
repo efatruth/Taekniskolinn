@@ -1,0 +1,5 @@
+H:\skilaverkefni3\skilaverkefni3\bin\Debug\skilaverkefni3.exe.config
+H:\skilaverkefni3\skilaverkefni3\bin\Debug\skilaverkefni3.exe
+H:\skilaverkefni3\skilaverkefni3\bin\Debug\skilaverkefni3.pdb
+H:\skilaverkefni3\skilaverkefni3\obj\Debug\skilaverkefni3.exe
+H:\skilaverkefni3\skilaverkefni3\obj\Debug\skilaverkefni3.pdb

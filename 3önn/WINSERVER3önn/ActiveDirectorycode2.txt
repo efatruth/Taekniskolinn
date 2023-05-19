@@ -1,0 +1,15 @@
+# New-ADOrganizationalUnit -name Notendur -protectedFromAccidentalDeletion $false
+new-ADGroup -name ALLIRGRP -Path "OU=Notendur, DC=LB,DC=local" -GroupScope Global
+$notendur = import-csv .\lokaverk_h17.csv
+foreach ($n in $notendur) {
+    $deild = $n.deild
+    if((Get-ADOrganizationalUnit -filter {name -eq $deild}).name -ne $deild) { 
+      new-ADOrganizationalUnit -Name $deild -Path "OU=Notendur, DC=LB,DC=local" -protectedFromAccidentalDeletion $false
+      New-ADGroup -name $deild -Path $("OU=" + $deild + ",OU=Notendur, DC=LB,DC=local" ) -GroupScope Global
+      Add-ADGroupMember -Identity  ALLIRGRP -Members $deild
+    }
+    New-ADUser -name $n.nafn -displayname $n.nafn -givenname $n.fornafn -surname $n.eftirnafn -SamAccountName $n.Notendanafn -UserPrincipalName $($n.notendanafn + "@LB.local") -Path $("OU=" + $deild + ",OU=Notendur, DC=LB,DC=local" ) -AccountPassword (ConvertTo-SecureString -AsPlainText "pass.123" -force) -Enabled $true
+
+    Add-ADGroupMember -Identity $deild -members $n.notendanafn
+
+}

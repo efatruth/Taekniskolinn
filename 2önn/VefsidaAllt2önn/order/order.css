@@ -1,0 +1,48 @@
+
+,* {
+    box-sizing: border-box;
+}
+
+body {
+	max-width: 60em;
+ 	margin: 0 auto;
+}
+
+footer p {
+  text-align: center;
+}
+
+.gulur {
+  background-color: yellow;
+  order: 1;
+}
+.raudur {
+  background-color: red;
+  order: 2;  
+}
+.graenn {
+  background-color: lime;
+  order: 3;
+}
+.blar {
+  background-color: cyan;
+  order: 4;  
+}
+
+.box
+{
+	height: 6em;
+	font-size: 1.2em;
+	flex: 1;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}   
+.row{
+	display: flex;
+	flex-flow:row;
+}
+.col{
+	display: flex;
+	flex-flow: column;
+}

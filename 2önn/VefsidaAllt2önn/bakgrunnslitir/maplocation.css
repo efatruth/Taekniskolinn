@@ -1,0 +1,27 @@
+body{
+	background-color: #0C4CB2;
+	background-image: url("../../mynd/photoshop.jpg");
+}
+
+h1 {
+    text-align: center;
+}
+
+header{
+	max-width: 60em;
+	margin: auto;
+}
+
+section{
+	
+	background: linear-gradient(#cfab6b, #cfab31);
+	padding: 28px;
+}
+header h1{
+	border-top: 3px solid #cfab31;
+	padding-top: 50px;
+	padding-bottom: 30px;
+	margin-top: 65px;
+	color:#cfab31;
+}
+

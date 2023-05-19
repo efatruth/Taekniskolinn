@@ -1,0 +1,135 @@
+body {
+	margin: 0 auto;
+	width: 960px;
+}
+
+@import "compass/css3";
+
+.wrapper {
+  display: flex;  
+  
+  flex-flow: row wrap;
+  
+  font-weight: bold;
+  text-align: left;
+  
+  margin: 0 auto;
+}
+
+.wrapper > * {
+  padding: 10px;
+  flex: 1 100%;
+}
+
+.header {
+  background: tomato;
+  text-align: left;
+}
+nav {background-color: blue;}
+ nav a{
+	display: inline-block; 
+	 padding: 8px;
+	 text-decoration:none;
+	 border-left: 1px solid white;
+	 background-color:darkgreen;
+	 color:white;
+	 width:16%;
+	 text-align: center;
+}
+
+ nav a:hover
+{
+	color:#FF9966;
+	background-color:darkgreen;
+}
+
+.footer {
+  text-align: left;
+  background: lightgreen;
+}
+
+.main {
+  text-align: left;
+  background: deepskyblue;
+  float:left;
+  width: 50%;
+}
+
+.aside-1 {
+  background: gold;
+  float: left;
+  width: 25%;
+}
+
+.aside-2 {
+  background: hotpink;
+  float: left;
+  width: 25%;
+}
+
+@media all and (min-width: 600px) {
+  .aside { flex: 1 auto; }
+}
+
+@media all and (min-width: 800px) {
+  .main    { flex: 60 0px; }
+  .aside-1 { order: 1; } 
+  .main    { order: 2; }
+  .aside-2 { order: 3; }
+  .footer  { order: 4; }
+}
+
+body {
+  padding: ; 
+}
+
+article,
+aside,
+footer
+{
+box-sizing:border;
+width: 33.33333%;
+}
+
+.box-set {
+  background: #eaeaed;
+  position: fixed;
+  left: 0;
+  top: 100px;
+}
+.box {
+  background: #2db34a;
+  height: 48px;
+  width: 48px;
+  position: relative;
+  margin: 0;
+  line-height: 48px;
+}
+
+.image{
+	width:250px;
+	top: left-side;
+	}
+
+.icon-facebook:before {
+  content: "\1f4de";
+}
+
+.icon-google-plus:before {
+  content: "\1f30f";
+}
+
+.icon-pinterest2:before {
+  content: "\1f352";
+}
+  
+  
+.icon-pinterest:before {
+  content: "\1f308";
+}
+
+.icon-bullhorn:before {
+  content: "\1f30c";
+}
+
+

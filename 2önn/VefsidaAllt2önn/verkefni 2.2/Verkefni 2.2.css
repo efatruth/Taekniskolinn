@@ -1,0 +1,80 @@
+body {
+	margin: 0 auto;
+	width: 960px;
+	text-indent:5px;
+}
+
+.b1 {
+  background-color: #ff704d;
+  order: 1;
+}
+.b2 {
+  background-color:#4db8ff;
+  order: 2;  
+}
+.b3 {
+  background-color: #ffcc00;
+  order: 3;
+}
+.footer {
+  background-color: #85e085;
+  order: 4;  
+}
+
+.box-1,.box-2,.box-3,.box-4 {
+  background: #2db34a;
+  height: 48px;
+  width: 48px;
+  position: relative;
+  margin: 0;
+  line-height: 48px;
+}
+
+.box{
+	color: white;
+	text-align: center;
+	border-bottom:1px solid #4dff4d;
+
+}
+
+.row {
+  background: #eaeaed;
+  position: fixed;
+  left:;
+  top:;
+  display: flex;
+}
+
+.col{
+	display: flex;
+	flex-flow: column;
+}
+
+.blar {
+  background-color:#339966;
+  order: 1;
+}
+.graenn {
+  background-color:#339966;
+  order: 2;  
+}
+.rauður {
+  background-color: #339966;
+  order: 3;
+}
+
+.gulur {
+  background-color: #339966;
+  order: 4;
+}
+.svartur {
+  background-color:#339966;
+  order: 5; 
+
+}
+label:hover {
+  color: #ff7b29;
+  
+} 
+
+

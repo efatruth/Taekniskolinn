@@ -1,0 +1,203 @@
+
+
+
+
+section{
+    display: flex;
+    flex-flow: column;
+}
+
+header{
+    background: darkgreen;
+    text-align: left;
+}
+
+header h1,
+footer h1{
+    margin: 0;
+    padding: 1em;
+}
+
+footer{
+    background-image: url(hh.gif)
+}
+
+.main{
+    text-align: left;
+    background: skyblue;
+}
+
+.aside-V{
+    background: brown;
+}
+
+.aside-H{
+    background: purple;
+}
+
+aside{ flex: 1 1 0;}
+
+.main {flex: 2 2 1em;}
+
+.aside-V{order: 1;}
+.main   {order: 2;}
+.aside-H{order: 3;}
+
+.box-set{
+    position: relative;
+    display: flex;
+    flex-flow: row;
+}
+
+.box{
+    background: #2db34a;
+    height: 2em;
+    width: 2em;
+    align-content: left;
+    text-align: center;
+    margin: right;
+    border: radius: 2px;
+    padding: 15px;
+}
+
+.box-1{
+    background-color: yellowgreen;
+}
+
+.box-2{
+    background-color: royalblue;
+}
+
+.box-3{
+    background-color: greenyellow;
+}
+
+.box-4{
+    background-color: slateblue;
+}
+
+.label{
+    display: none;
+}
+
+@media screen and (min-width: 37.5em){
+    section{
+        display: block;
+    }
+    .aside-V{
+        float: left;
+        width: 50%;
+    }
+    .aside-H{
+        float: right;
+        width: 50%;
+    }
+}
+    
+    
+@media screen and (min-width: 48em){
+        section{
+            display: flex;
+            flex-flow: row;
+        }
+        
+        .main{
+            flex: 2 2 1em;
+            order: 2;
+        }
+        
+        .aside-V{
+            flex: 1 1 0;
+            order: 1;
+        }
+        
+        .aside-H{
+            flex: 1 1 0;
+            order: 3;
+        }
+        
+        .topmenu{
+            display: flex;
+            flex-flow: row;
+            justify-content: center;
+            position: relative;
+            top: 0;
+            padding: 0;
+            margin: 0;
+            list-style: none;
+        }
+        
+        .topmenu li{
+          border: 0;
+          border-left: 1px solid blue;
+          padding: 0;
+        }
+        
+        .topmenu li:last-child{
+            border-right: 1px solid blue;
+        }
+        
+        .topmenu a{
+            display: block;
+            color: white;
+            text-decoration: none;
+            padding: .4em 2em;
+        }
+        
+        .topmenu a:hover,
+        .topmenu a:active{
+            background-color: purple;
+            transition: all .5% ease;
+        }
+        
+        label{
+            display: none;
+        }
+
+        nav{
+            order: 1;
+        }
+
+        header{
+        order: 2;
+        }
+
+        section{
+        order: 3;
+        }
+
+        footer{
+        order: 4;
+        }
+ }    
+    
+@media screen and(min-width: 64cm){
+    .smedia{
+      display: block;
+      position: fixed;
+      top: 4em;
+      left: 0;
+      height: 10em;
+      widows: 2.5em;
+    }
+    
+    header h1{
+        line-height: 1.1
+        color: #444;
+    }
+}
+
+@media screen and (min-width: 80em){
+    body{
+        max-width: 80em;
+        margin: 0 auto;
+    }
+}
+
+.container{
+    position: relative;
+    left: 500px;
+    height: 100px;
+    padding-top: 100px;
+    margin: 0 auto;
+}

@@ -1,0 +1,69 @@
+body{
+	width: 800px;
+	margin: auto;
+	background-color:green;
+}
+
+header ,
+nav ,
+aside ,
+article,
+div ,
+footer{
+	border: 1px dotted red;
+	padding: 15px; 
+	box-sizing: border-box;
+	display: inline-block;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+header li
+{
+	display: inline-block;
+	padding-left: 20px;
+	padding-right: 20px;
+	
+}
+
+.col-1-2{
+	width: 50%;
+}
+
+.col-1-3{
+	width: 33.3333%;
+}
+
+.col-2-3{
+	width:66.6667%;
+}
+.fl-left{
+	float: left;
+}
+
+.fl-right{
+	float: right;
+}
+.round{
+    border: 2px solid red;
+    border-radius: 8px;
+}
+
+.group:before,
+.group:after {
+  content: "";
+  display: table;
+}
+.group:after {
+  clear: both;
+}
+.group {
+  clear: both;
+  *zoom: 1;
+}
+
+
+
+
+
+
